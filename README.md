@@ -2,6 +2,8 @@ QA-Automation-Assessment
 
 Author: Ramandeep Brar
 
+Open the Readme file in the 'Code' tab to see the proper structure
+
 Setup Prerequisite:
 Installed JDK 21.0.3 on local
 
